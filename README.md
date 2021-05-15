@@ -1,2 +1,2 @@
 # autoparking
-![](https://github.com/nondejus/parking-lot/blob/main/ArtBoard%20Image%20(58).jpg) 
+![](https://github.com/nondejus/autoparking/blob/main/autoparking/ArtBoard%20Image%20(58).jpg) 
